@@ -1,0 +1,32 @@
+.site-navigation-item{
+    text-align:center;
+    display: inline-block;
+    margin: 65px;
+ }
+.headline{
+    text-align:center;
+} 
+.promo{
+    text-align:center;
+}
+.reviews-item1{
+    margin-left: 25px;
+        width: 300px;
+}
+.reviews-item2{
+    width: 300px;
+      height: 600px;
+      margin-left: 800px;
+}
+.reviews-item3{
+      
+    height: 100px;
+    margin: auto;
+    margin-right: 100px;
+        width: 300px;
+}
+.visually-hidden{
+    text-align:center;
+    display: inline-block;
+    margin: 40px;
+	margin-left: 800px;
